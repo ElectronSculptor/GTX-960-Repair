@@ -16,7 +16,7 @@ This project details the repair of an **EVGA GTX 960** graphics card, which suff
 2. **Power System Analysis**:
    - Verified PCIe connections using a pinout diagram.
    - Tested all MOSFETs and phases, looking at their resistance and connexions thanks to continuity mode.
-   - Then I identified the 4C10N MOSFET (named "Q22" on the card) as faulty, as it was the only one with short-circuited Source pins, and a lower resistance value.
+   - Then I identified the 4C10N MOSFET (named "Q27" on the card) as faulty, as it was the only one with short-circuited Source pins, and a lower resistance value.
 
 3. **Repair**:
    - I ordered a **NTMFS4C10N** component on Aliexpress 
